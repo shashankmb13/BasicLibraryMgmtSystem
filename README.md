@@ -15,7 +15,9 @@ A simple command-line based **Library Management System** written in Python. It 
 - **Python 3.x**
 
 ## 📂 Project Structure
-
+LibraryManagement/
+├── main.py # Contains the main program
+├── README.md # Project documentation
 
 ## 📌 How It Works
 
