@@ -42,3 +42,7 @@ Harry Potter and the Philosopher's Stone by J.K. Rowling
 
 Enter the title of the book you want to return: 1984
 Book '1984' returned successfully.
+```
+
+📄 License
+This project is open-source and available under the MIT License.
